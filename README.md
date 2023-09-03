@@ -1,6 +1,6 @@
 # Group2_AffirmationsApp
 
-![alt text](Images/logo_for_readme.png)
+![logo_for_readme.png](Group2_AffirmationsApp/Images/logo_for_readme.png)
 
 Install the following tools if you don't already have them: <br>
 - Tkinter 
